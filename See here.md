@@ -1,10 +1,10 @@
 #good-material-for-learning-CS
-##This is a collection for code-learning. 
+##This is a collection for code-learning. :bowtie:
 Just wanna share some `useful material` with you guys!! </br>
 [![cat](https://github.com/EmilyKeer/good-material-for-learning-CS/raw/master/github_icon.jpg)] (http://pan.baidu.com/s/1eSPr6L0 "open")
 [Have a look at here] (http://pan.baidu.com/s/1eSPr6L0 "open") 
 
-Including material for: :blush:, </br>
+Including material for: :blush: </br>
 > * MySQL</br>
 >> * Windows OS</br>
 * Javascript</br>
@@ -12,7 +12,7 @@ Including material for: :blush:, </br>
 * Java</br>
 * More...
 
-* Example(for models):
+* Example(for models)::ballot_box_with_check::ballot_box_with_check::ballot_box_with_check::ballot_box_with_check::ballot_box_with_check:
 ```javascript
 <HTML>
 <HEAD>
